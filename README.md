@@ -15,15 +15,10 @@ Planned next steps:
 ## Project Structure
 ```
 PlayZone/
+├── backend/
 ├── docs/
+├── frontend/
 ├── games/
-│   └── Grabitivity/
-│       ├── .vscode/
-│       ├── Assets/
-│       ├── Packages/
-│       ├── ProjectSettings/
-│       └── .gitignore
-├── playzone-frontend/
 ├── .gitignore
 ├── LICENSE
 └── README.md
