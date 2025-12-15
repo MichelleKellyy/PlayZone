@@ -8,7 +8,7 @@ Planned next steps:
 - Designing a simple UI for launching games 
 
 ## Current Tools & Technologies
-- Unity
+- Unity (C#)
 - Will be added to as the project grows.
 
 ## Project Structure
