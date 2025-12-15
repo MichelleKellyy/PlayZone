@@ -23,6 +23,7 @@ PlayZone/
 │       ├── Packages/
 │       ├── ProjectSettings/
 │       └── .gitignore
+├── playzone-frontend/
 ├── .gitignore
 ├── LICENSE
 └── README.md
