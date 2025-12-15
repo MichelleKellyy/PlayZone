@@ -13,14 +13,17 @@ Planned next steps:
 
 ## Project Structure
 ```
-playzone/
-│
-├── Games/                
-│   └── .gitkeep          # Unity game builds
-│
-├── Docs/                 # Documentation
-│   └── .gitkeep
-│
+PlayZone/
+├── Docs/
+├── Games/
+│   └── Grabitivity/
+│       ├── .vscode/
+│       ├── Assets/
+│       ├── Packages/
+│       ├── ProjectSettings/
+│       └── .gitignore
+├── .gitignore
+├── LICENSE
 └── README.md
 ```
 
