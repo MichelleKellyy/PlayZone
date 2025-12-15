@@ -15,8 +15,8 @@ Planned next steps:
 ## Project Structure
 ```
 PlayZone/
-├── Docs/
-├── Games/
+├── docs/
+├── games/
 │   └── Grabitivity/
 │       ├── .vscode/
 │       ├── Assets/
